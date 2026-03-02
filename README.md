@@ -1,1 +1,1 @@
-# Threath-Intelligence-Lists
+# Threat-Intelligence-Lists
